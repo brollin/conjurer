@@ -43,7 +43,7 @@
     "react-dom": "18.2.0",
     "react-draggable": "^4.4.6",
     "react-icons": "^4.11.0",
-    "recharts": "^2.8.0",
+    "recharts": "^2.9.0",
     "splines": "jonathanlurie/splines",
     "three": "^0.157.0",
     "ts-node": "^10.9.1",
