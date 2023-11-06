@@ -37,7 +37,7 @@
     "mobx": "^6.10.2",
     "mobx-react-lite": "^4.0.5",
     "next": "^13.5.5",
-    "postprocessing": "^6.33.2",
+    "postprocessing": "^6.33.3",
     "raw-loader": "^4.0.2",
     "react": "18.2.0",
     "react-colorful": "^5.6.1",
